@@ -1,0 +1,57 @@
+@keyframes nav-logo {
+    0%{
+        left: -400px;
+        color: transparent;
+    }
+    100%{
+        left: 0px;
+        
+    }
+}
+@keyframes nav-links {
+    0%{
+        top: -400px;
+        color: transparent;
+    }
+    100%{
+        top: 0px;
+        
+    }
+}
+@keyframes nav-btn {
+    0%{
+        right: -400px;
+        color: transparent;
+    }
+    100%{
+        right: 0px;
+        
+    }
+}
+@keyframes img {
+    0%{
+        bottom: -400px;
+        color: transparent;
+    }
+    100%{
+        bottom: 0px;
+    }
+}
+@keyframes con-des {
+    0%{
+        left: -400px;
+        color: transparent;
+    }
+    100%{
+        left: 0px;
+    }
+}
+@keyframes con-btn {
+    0%{
+        bottom: -400px;
+        color: transparent;
+    }
+    100%{
+        bottom: 0px;
+    }
+}
